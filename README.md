@@ -1,6 +1,6 @@
 # first_app
 
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-07 at 06 20 38" src="https://github.com/user-attachments/assets/248b96ba-2dad-458a-ae9b-e0569427b76c" />
+<img width="300" alt="WhatsApp Image 2026-05-07 at 06 20 38" src="https://github.com/user-attachments/assets/248b96ba-2dad-458a-ae9b-e0569427b76c" />
 
 ## Getting Started
 
