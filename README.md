@@ -1,6 +1,9 @@
+
 # first_app
+Simple dice roller app
 
 <img width="300" alt="WhatsApp Image 2026-05-07 at 06 20 38" src="https://github.com/user-attachments/assets/248b96ba-2dad-458a-ae9b-e0569427b76c" />
+<img width="300" alt="WhatsApp Image 2026-05-07 at 06 25 23" src="https://github.com/user-attachments/assets/6a56aad4-5661-49c8-9604-f0a55c4cb66b" />
 
 ## Getting Started
 
